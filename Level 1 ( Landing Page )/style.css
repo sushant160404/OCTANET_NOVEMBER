@@ -1,0 +1,708 @@
+body { 
+	margin: 0px; 
+	padding: 0px; 
+	font-family:"Arial"; 
+	overflow-x:hidden; 
+}
+
+img { 
+	position: absolute; 
+	display: block; 
+	margin: 0px; 
+	border: none; 
+	padding: 0px; 
+}
+
+div { 
+	position: absolute; 
+}
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 2967px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_desktop___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 2967px;
+}
+
+#_bg__desktop___1_ek2 {
+	top: -1px;
+	left: -1px;
+	width: 1440px;
+	height: 2967px;
+	border: 1px solid #f1eaff;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(241,234,255,0.53);
+}
+
+
+#rectangle_1 {
+	top: -1px;
+	left: -1px;
+	width: 1440px;
+	height: 781.79px;
+}
+
+
+#rectangle_2 {
+	top: 142px;
+	left: 714px;
+	width: 623px;
+	height: 525px;
+}
+
+
+#smart_email_marketer_s {
+	top: 213px;
+	left: 73px;
+	width: 589.3px;
+	height: 900px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 93px;
+/*	line-height: 329.3px;*/
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#rectangle_3 {
+	opacity:0.03999999910593;
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 103px;
+	background:rgba(217,217,217,0.04);
+}
+
+
+#marketers {
+	top: 50px;
+	left: 820px;
+	width: 142px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 30px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#services {
+	top: 50px;
+	left: 671px;
+	width: 133px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 30px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#home {
+	top: 48px;
+	left: 569px;
+	width: 109px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 30px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#rectangle_4 {
+	top: 34px;
+	left: 1126px;
+	width: 212px;
+	height: 69px;
+	-ms-border-radius: 84px;
+	-o-border-radius: 84px;
+	-moz-border-radius: 84px;
+	-webkit-border-radius: 84px;
+	border-radius: 84px;
+	background:rgba(217,217,217,1);
+}
+
+
+#download {
+	top: 33px;
+	left: 1121px;
+	width: 220px;
+	height: 79px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 30px;
+	line-height: 74px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#company {
+	top: 48px;
+	left: 969px;
+	width: 143px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 30px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#e_master {
+	top: 45px;
+	left: 118px;
+	width: 253.3px;
+	height: 59.3px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 43px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#rectangle_6 {
+	top: 35px;
+	left: 102px;
+	width: 60px;
+	height: 68px;
+}
+
+
+#rectangle_7 {
+	top: 1565px;
+	left: 0px;
+	width: 1440px;
+	height: 774px;
+	-ms-border-radius: 31px;
+	-o-border-radius: 31px;
+	-moz-border-radius: 31px;
+	-webkit-border-radius: 31px;
+	border-radius: 31px;
+	background:rgba(255,255,255,0);
+	/*background: -webkit-linear-gradient(-180deg , rgba(217,217,217,1) 0%, rgba(217,217,217,0) 100%);
+	background: -o-linear-gradient(-180deg , rgba(217,217,217,1) 0%, rgba(217,217,217,0) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(217,217,217,1) 0%, rgba(217,217,217,0) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(217,217,217,1) 0%, rgba(217,217,217,0) 100%);
+	background: linear-gradient(-180deg , rgba(217,217,217,1) 0%, rgba(217,217,217,0) 100%);*/
+}
+
+
+#rectangle_9 {
+	top: 2003px;
+	left: 544px;
+	width: 329.49px;
+	height: 246px;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt_ {
+	top: 2082px;
+	left: 627px;
+	width: 196px;
+	height: 120px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#mr__semas_roy {
+	top: 2041px;
+	left: 611px;
+	width: 224px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_12 {
+	top: 2003px;
+	left: 115px;
+	width: 329.49px;
+	height: 246px;
+}
+
+
+#rectangle_11 {
+	top: 2003px;
+	left: 973px;
+	width: 329.49px;
+	height: 246px;
+}
+
+
+#rectangle_13 {
+	top: 1711px;
+	left: 38px;
+	width: 357px;
+	height: 292px;
+}
+
+
+#rectangle_14 {
+	top: 1698px;
+	left: 608px;
+	width: 232px;
+	height: 305px;
+}
+
+
+#rectangle_15 {
+	top: 1698px;
+	left: 953px;
+	width: 296px;
+	height: 305px;
+}
+
+
+#marketers_ek1 {
+	top: 1610px;
+	left: 355px;
+	width: 721.2px;
+	height: 106.2px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 62px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt__ek1 {
+	top: 2081px;
+	left: 195px;
+	width: 196px;
+	height: 120px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#mr__semas_roy_ek1 {
+	top: 2040px;
+	left: 179px;
+	width: 224px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt__ek2 {
+	top: 2082px;
+	left: 1054px;
+	width: 196px;
+	height: 120px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#mr__semas_roy_ek2 {
+	top: 2040px;
+	left: 1038px;
+	width: 224px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_16 {
+	top: 2376px;
+	left: 65px;
+	width: 1313px;
+	height: 422px;
+	-ms-border-radius: 31px;
+	-o-border-radius: 31px;
+	-moz-border-radius: 31px;
+	-webkit-border-radius: 31px;
+	border-radius: 31px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_17 {
+	top: 2517px;
+	left: 630px;
+	width: 206px;
+	height: 51px;
+}
+
+
+#rectangle_18 {
+	top: 2500px;
+	left: 891px;
+	width: 166px;
+	height: 84px;
+}
+
+
+#rectangle_19 {
+	top: 2508px;
+	left: 450px;
+	width: 109px;
+	height: 65px;
+}
+
+
+#rectangle_20 {
+	top: 2518px;
+	left: 115px;
+	width: 222px;
+	height: 49px;
+}
+
+
+#rectangle_22 {
+	top: 2669px;
+	left: 516px;
+	width: 181px;
+	height: 47px;
+}
+
+
+#rectangle_23 {
+	top: 2639px;
+	left: 773px;
+	width: 162px;
+	height: 106px;
+}
+
+
+#rectangle_24 {
+	top: 2501px;
+	left: 1117px;
+	width: 213px;
+	height: 84px;
+}
+
+
+#rectangle_25 {
+	top: 2652px;
+	left: 1020px;
+	width: 144px;
+	height: 64px;
+}
+
+
+#rectangle_26 {
+	top: 2652px;
+	left: 201px;
+	width: 249px;
+	height: 78px;
+}
+
+
+#company_ek1 {
+	top: 2396px;
+	left: 477px;
+	width: 477.2px;
+	height: 114.2px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 62px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt__ek3 {
+	top: 494px;
+	left: 157px;
+	width: 441px;
+	height: 164.5px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 35px;
+	line-height: 159.5px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#services_ek1 {
+	top: 869px;
+	left: 434px;
+	width: 554px;
+	height: 103.7px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 57px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_27 {
+	top: 1044px;
+	left: 122px;
+	width: 365px;
+	height: 211px;
+	-ms-border-radius: 32px;
+	-o-border-radius: 32px;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	background: #FFFFFF;
+}
+
+
+#product_and_service_promotions {
+	top: 1150px;
+	left: 183px;
+	width: 241px;
+	height: 73.5px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 25px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_29 {
+	top: 1044px;
+	left: 953px;
+	width: 365px;
+	height: 211px;
+	-ms-border-radius: 32px;
+	-o-border-radius: 32px;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	background: #FFFFFF;
+}
+
+
+#rectangle_32 {
+	top: 1290px;
+	left: 537px;
+	width: 365px;
+	height: 211px;
+	-ms-border-radius: 32px;
+	-o-border-radius: 32px;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	background: #FFFFFF;
+}
+
+
+#rectangle_31 {
+	top: 1044px;
+	left: 537px;
+	width: 365px;
+	height: 211px;
+	-ms-border-radius: 32px;
+	-o-border-radius: 32px;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	background: #FFFFFF;
+}
+
+
+#rectangle_35 {
+	top: 1075px;
+	left: 684px;
+	width: 87px;
+	height: 87px;
+}
+
+
+#rectangle_38 {
+	top: 1063px;
+	left: 1099px;
+	width: 84px;
+	height: 84px;
+}
+
+
+#template_design {
+	top: 1178px;
+	left: 595px;
+	width: 241px;
+	height: 73.5px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 25px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#email_automation_strategy {
+	top: 1162px;
+	left: 1013px;
+	width: 241px;
+	height: 73.5px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 25px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_30 {
+	top: 1290px;
+	left: 953px;
+	width: 365px;
+	height: 211px;
+	-ms-border-radius: 32px;
+	-o-border-radius: 32px;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	background: #FFFFFF;
+}
+
+
+#rectangle_28 {
+	top: 1290px;
+	left: 122px;
+	width: 365px;
+	height: 211px;
+	-ms-border-radius: 32px;
+	-o-border-radius: 32px;
+	-moz-border-radius: 32px;
+	-webkit-border-radius: 32px;
+	border-radius: 32px;
+	background: #FFFFFF;
+}
+
+
+#esp_migration {
+	top: 1426px;
+	left: 599px;
+	width: 241px;
+	height: 73.5px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 25px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#tailored_email_campaigns {
+	top: 1408px;
+	left: 175px;
+	width: 241px;
+	height: 73.5px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 25px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_36 {
+	top: 1309px;
+	left: 263px;
+	width: 88px;
+	height: 87px;
+}
+
+
+#campaign_tracking_and_analytics {
+	top: 1400px;
+	left: 1013px;
+	width: 241px;
+	height: 73.5px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 25px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_39 {
+	top: 1316px;
+	left: 1113px;
+	width: 61px;
+	height: 77px;
+}
+
+
+#rectangle_33 {
+	top: 1063px;
+	left: 223px;
+	width: 142px;
+	height: 87px;
+	background: #FFFFFF;
+}
+
+
+#rectangle_34 {
+	top: 1063px;
+	left: 267px;
+	width: 84px;
+	height: 84px;
+}
+
+
+#rectangle_40 {
+	top: 1318px;
+	left: 674px;
+	width: 97px;
+	height: 96px;
+}
+
+
+#rectangle_41 {
+	top: 2852px;
+	left: 0px;
+	width: 1440px;
+	height: 116px;
+}
+
+
+#__sushant_namurte {
+	top: 2923px;
+	left: 97px;
+	width: 1244px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
